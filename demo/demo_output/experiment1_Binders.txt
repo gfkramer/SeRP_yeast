@@ -1,0 +1,1 @@
+systematic name	pearson correlation	average of first 90 nt	number of peaks	peakwidth	start of peak [nt]	maximal peak height	average peak height	
