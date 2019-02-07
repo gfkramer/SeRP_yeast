@@ -62,7 +62,7 @@ fasta file containing the sequence of each chromosome of the organism of interes
 - S. cerevisiae data is downloaded from SGD ('S288C_reference_sequence_R64-2-1_20150113.fsa' and 'rna_coding_R64-2-1_20150113.fasta')
 
 text file containing all genes with additional information in tab separated format
-- S. cerevisiae data from SGD, present as excel file ('yeast_transcripts.xlsx')
+- S. cerevisiae data derived from SGD ('yeast_transcripts.txt')
 
 
 # System Requirements
@@ -152,7 +152,7 @@ The Python installation should take approximately 1-2 hours to install on a reco
 ```
 
 
--   The expected run time for a demo on a recommended computer is less than an hour.
+-   The expected run time for a demo on a recommended computer is less than half an hour.
 
 
 
@@ -258,7 +258,6 @@ The output graphs are saved as png file and as pdf file with position along aver
 
 # License
 
-- [License](License)
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
